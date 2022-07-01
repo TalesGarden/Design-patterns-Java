@@ -1,4 +1,4 @@
-# design-patterns-Java
+# Design Patterns with Java
 Exploring Design Patterns in Practice with Pure Java
 
 
